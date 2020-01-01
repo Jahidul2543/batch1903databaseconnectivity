@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9db1e000-bcd6-4f73-8c31-18e163fc69d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Batch1903JavaBasic/src/basic/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch1903JavaBasic/src/basic/IPhoneX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch1903JavaBasic/src/basic/IPhoneXI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch1903JavaBasic/src/basic/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/data/planet-data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/logs/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/logs/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber-pretty/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber-pretty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber-pretty/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber-pretty/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber-pretty/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/reporting/junit_xml/cucumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/RestAssuredCore/BaseAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/RestAssuredCore/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/RestAssuredCore/RESTCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/base/ApplicationPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/features/individual-people.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/features/individual-plante.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/features/people.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/features/plantes.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/parallel/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/stepDefinition/IndividualPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/stepDefinition/IndividualPlanetsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/stepDefinition/PeopleSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/stepDefinition/PlanetsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/utils/PayloadGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../airmail/src/test/java/utils/URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unittestdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unittestdemo/src/test/resources/TestRunnerFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITestingBYRestassured/resources/JiraLogin.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingBYRestassured/resources/JiraLogin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/RestAssuredCore/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/RestAssuredCore/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/utils/PayloadGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/utils/PayloadGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/utils/URL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingBYRestassured/src/main/java/utils/URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDDB1901/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDDB1901/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/reporting/junit_xml/cucumber.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/base/ApplicationPageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/base/ApplicationPageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/objects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/objects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/runner/RunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDDB1901/automationpractice/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD_B1902/automation-practic/driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD_B1902/automation-practic/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD_B1902/automation-practic/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD_B1902/automation-practic/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD_B1902/automation-practic/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML_Basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML_Basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML_Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML_Basic/src/main/java/WebApp/Basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML_Basic/src/main/java/WebApp/Basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/ArtihmaticOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/ClassVariableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/ComparisonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/ConditionalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/UniaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/VariableTypesHomeWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicBatch1901/src/VariablesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tracer/tracer_app/CountOddAndEven.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tracer/tracer_app/CountOddAndEven.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tracer/tracer_test/qa_coding_test_answer_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tracer/tracer_test/qa_coding_test_answer_sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VersionCompatibility/src/main/java/connectdb/ConnectMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../VersionCompatibility/src/main/java/connectdb/ConnectMySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candymapper/generic/src/main/java/base/BrowserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/base/BrowserDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candymapper/webcandymapper/src/test/resources/CandymapperTestRunnerFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../candymapper/webcandymapper/src/test/resources/CandymapperTestRunnerFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/General Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/General Instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/accounts/SalaryCalulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/accounts/SalaryCalulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/DeepDiveArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/DeepDiveArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/MapAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/MapAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/Nokia1100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/Nokia1100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/PreNokia1100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/PreNokia1100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/SymbianPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/SymbianPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/BufferReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/BufferReaderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/ReadTestDataXLSXFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/ReadTestDataXLSXFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/utility/XLSXFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/utility/XLSXFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/Unit-Testing-Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/Unit-Testing-Instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/accountstest/SalaryCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/accountstest/SalaryCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/dbtest/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/dbtest/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simplewebapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simplewebapp/src/main/java/com/sample/Services.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/create-stack-using-shell-script/MyTemplate1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/01 Introduction to CloudFormation/SimpleExample.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/01 Introduction to CloudFormation/SimpleExampleNoTags.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/0-MyTemple.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/0-SimpleExample.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/1-IntrinsicFunctions.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/2-MultipleResources.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/3-PseudoParameters.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/4-Mappings.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/5-InputParameters.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/6-Output.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/03 Setting up an EC2 Instance/1-CFNInit.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/1-ChangeSet-SGIngressRule.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/2-ChangeSet-SGDescription.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/3-ChangeSet-AddVPC.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/4-ChangeSet-SGDescription.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/5-FullStack-ChangeSet.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/MyTemplate1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ymal/yaml/src/intro-to-CloudFormation_AC/README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1418412563">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="java" value="1017" />
+          <entry key="properties" value="21" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1017" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="21" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/BasicConncectDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/ReadPropertiesFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/ConnectDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="21" lean-forward="true" selection-start-line="17" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/consumer/ConsumeData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1213">
+              <caret line="147" column="57" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ExperimentalProjects/UITestUsingAWSLamda/lambda-selenium/lambda-selenium-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MobileAutomationTesting/functional-tests-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lambda-selenium/lambda-selenium-java" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection/ConncectDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection/BasicConncectDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection/ReadPropertiesFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection/ConnectDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection/ConncetDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection_utility/ConsumeData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection_utility/ConncetDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/consumer/ConsumeData.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection_utility/ReadPropertiesFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbconnection_utility/ConnectDB.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="batch1903databaseconnectivity" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1503" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbconnection_utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="batch1903databaseconnectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="batch1903databaseconnectivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577846050695" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dbconnection" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConsumeData">
+    <configuration name="BasicConncectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dbconnection_utility.BasicConncectDB" />
+      <module name="batch1903databaseconnectivity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumeData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.ConsumeData" />
+      <module name="batch1903databaseconnectivity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BasicConncectDB" />
+      <item itemvalue="Application.ConsumeData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumeData" />
+        <item itemvalue="Application.BasicConncectDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db1e000-bcd6-4f73-8c31-18e163fc69d0" name="Default Changelist" comment="" />
+      <created>1577838484764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577838484764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1503" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19575633" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.26631016" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44171122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32991102" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1213">
+          <caret line="147" column="57" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/consumer/ConsumeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/BasicConncectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/ReadPropertiesFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbconnection_utility/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" lean-forward="true" selection-start-line="17" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>batch1903databaseconnectivity</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:2.6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
